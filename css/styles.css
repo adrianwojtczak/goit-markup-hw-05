@@ -64,6 +64,10 @@ body {
     fill: var(--main-blue);
 }
 
+.nav-menu-header .current-page {
+    color: var(--main-blue);
+}
+
 .list-no-marker {
     list-style: none;
 }
